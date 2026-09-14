@@ -1,0 +1,8 @@
+{
+  "id": "14",
+  "name": "14-coq-verified-financial-engine",
+  "title": "Formally Verified Financial Transaction Engine",
+  "language": "Coq",
+  "domain": "Formal Verification & Mathematical Financial Assurance",
+  "description": "Formally proved double-entry ledger specifications in the Coq Proof Assistant guaranteeing strict balance conservation and atomic settlement invariants."
+}
