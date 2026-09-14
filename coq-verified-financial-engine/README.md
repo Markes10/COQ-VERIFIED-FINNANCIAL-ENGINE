@@ -1,4 +1,4 @@
-# 14 - Formally Verified Double-Entry Financial Engine (Coq)
+# Formally Verified Double-Entry Financial Engine (Coq)
 
 ## Executive Overview
 A formally verified double-entry accounting ledger written in the **Coq Proof Assistant**. Using the **Calculus of Inductive Constructions (CIC)**, it mathematically proves machine-checked theorems: strict **money supply conservation** (no money can be created or destroyed during transfers), ledger non-negativity (solvency), and transaction atomicity.
